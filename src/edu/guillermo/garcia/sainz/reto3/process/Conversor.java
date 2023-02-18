@@ -1,5 +1,8 @@
-package edu.guillermo.garcia.sainz.reto3.process;
+package edu.GuillermoGarciaS.reto3;
 
-public class Conversor {
+import edu.GuillermoGarciaS.reto2.piramide.process.CLI;
 
+public class Main {
+
+        public static void main(String[] args) {CLI.mostrarMenu();}
 }
